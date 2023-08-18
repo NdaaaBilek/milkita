@@ -21,21 +21,21 @@ global.moment = moment
 /*============= WAKTU =============*/
 global.owner = [
 	//	['6281234288573'],
-	['6282331033919'],
-	['212706611366'],
-	['6282256080304'],
-	['6282188376948', 'Riin', false]
+	['6285640575421'],
+	['6285640575421'],
+	['6285640575421'],
+	['6285640575421', 'ndaa', false]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.ram_usage = 600000000 // 600 MB in this example [Ram Limiter (if your server ram is 1GB put 900MB in bytes, later the server will auto restart before using 1GB ram)]
-global.packname = 'I ʜᴏᴘᴇ Yᴏᴜ\'ʀᴇ ғɪɴᴇ'
-global.author = '@x7||skizo'
-global.wm = '©xzn.wtf'
+global.packname = 'NdaaBotz-Md'
+global.author = 'NdaaFy'
+global.wm = '© NdaaBotz-Md'
 global.no_wallet = ''
 global.nomorown = '0'
-global.xznkey = 'YOURKEY' // chat atmin buat dapetin apikeynya
+global.xznkey = 'nadnad' // chat atmin buat dapetin apikeynya
 global.profil = fs.readFileSync("./src/profil.jpg")
 global.anunya = fs.readFileSync("./src/anunya.jpg")
 global.log = function log() {
@@ -48,7 +48,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
 	// 'https://website': 'apikey'
-	'https://xzn.wtf/': xznkey
+	'https://xzn.wtf/': 'nadnad'
 }
 global.multiplier = 69
 // Function untuk menghitung keuntungan berdasarkan persentase
