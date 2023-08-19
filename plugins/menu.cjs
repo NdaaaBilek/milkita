@@ -34,7 +34,8 @@ var handler = async (m, {
 		'weebs': 'Weebs',
 		'admin': 'Admin',
 		'group': 'Group',
-		'info': 'Info'
+		'info': 'Info',
+		'search': 'Search Menu'
 	}
 
 	try {
